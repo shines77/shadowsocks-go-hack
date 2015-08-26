@@ -1,8 +1,8 @@
 # About shadowsocks-go-hack
 
-This version is a hack version fork from https://github.com/shadowsocks/shadowsocks-go, version 1.1.4.
+This is a hack version fork from https://github.com/shadowsocks/shadowsocks-go, version 1.1.4.
 
-Modified and hack by [shines77](https://github.com/shines77/shadowsocks-go).
+Modified and hack by [shines77](https://github.com/shines77/), Git repository is [https://github.com/shines77/shadowsocks-go](https://github.com/shines77/shadowsocks-go).
 
 # Improve or update
 
