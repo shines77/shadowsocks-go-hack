@@ -1,0 +1,8 @@
+{
+    "server":"127.0.0.1",
+    "server_port":5173,
+    "local_port":1080,
+    "password":"test",
+    "method": "aes-256-cfb",
+    "timeout":600
+}
